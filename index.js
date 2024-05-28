@@ -177,7 +177,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `${botname} is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `"𝗱𝗿𝗲𝗮~𝗱𝗲𝗮𝗱" 𝗕𝗼𝗿𝗻 𝘁𝗼 𝗯𝗲 𝘄𝗶𝗹𝗱🗿🗿 \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}👀.` 
 
                                  ) 
 
