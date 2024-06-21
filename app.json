@@ -21,7 +21,7 @@
   "env": {
     "PREFIX": {
       "description": "Prefix of dreaded bot Ex: . , / , # , & etc. Put any symbol",
-      "required": true
+      "required": false
 
     },
     "DEV": {
